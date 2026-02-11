@@ -1,4 +1,4 @@
-declare module "mgrs" {
+declare module "geographiclib-mgrs" {
   /**
    * Convert lat/lon to MGRS.
    *
